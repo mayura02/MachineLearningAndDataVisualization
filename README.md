@@ -1,1 +1,1 @@
-Machine Learning Projects with Data Visualization.
+**Machine Learning Projects with Data Visualization.**
